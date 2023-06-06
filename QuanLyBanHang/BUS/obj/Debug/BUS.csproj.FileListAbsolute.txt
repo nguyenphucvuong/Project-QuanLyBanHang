@@ -1,0 +1,35 @@
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.pdb

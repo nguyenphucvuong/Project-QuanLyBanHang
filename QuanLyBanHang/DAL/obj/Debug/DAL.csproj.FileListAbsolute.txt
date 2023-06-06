@@ -1,0 +1,29 @@
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+D:\LTUD\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\hoctap\HocKy3\Lập Trình Ứng Dụng\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+C:\Users\abcde\Desktop\Project C#\HK3\Project-QuanLyBanHang\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
